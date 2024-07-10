@@ -1,0 +1,11 @@
+﻿@model IEnumerable<Student>
+
+@{
+    foreach(var item in Model){
+        <h5>Details of the student with ID : @item.StudentId</h5>
+        <p>Name : @item.StudentName</p>
+        <p>Age : @item.Age</p>
+        <p>Marks : @item.Marks</p>
+    }
+}
+"C:\Users\sahit\source\repos\Assignment-2\Assignment-2\Assignment-2.csproj"
