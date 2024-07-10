@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "jqS3N3V/afA=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\sahit\\source\\repos\\Assignment1\\Assignment1Tests\\Assignment1Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahit\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\sahit\\.nuget\\packages\\mstest.testadapter\\3.1.1\\mstest.testadapter.3.1.1.nupkg.sha512",
+    "C:\\Users\\sahit\\.nuget\\packages\\mstest.testframework\\3.1.1\\mstest.testframework.3.1.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1103",
+      "level": "Error",
+      "message": "Unable to find a stable package Microsoft.NET.Test.Sdk with version (>= 17.8.0)\r\n  - Found 1 version(s) in Microsoft Visual Studio Offline Packages [ Nearest version: 17.10.0-preview-24080-01 ]\r\n  - Found 0 version(s) in C:\\Program Files\\dotnet\\library-packs\r\n  - Found 0 version(s) in Connect\r\n  - Found 0 version(s) in Official",
+      "libraryId": "Microsoft.NET.Test.Sdk",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
