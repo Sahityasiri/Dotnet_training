@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "wVgvZtT/LAM=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\sahit\\Downloads\\Microservices-master\\OcelotDemo\\newproject\\newservice.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.Authentication.JwtBearer. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Connect, Microsoft Visual Studio Offline Packages, Official",
+      "libraryId": "Microsoft.AspNetCore.Authentication.JwtBearer",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Swashbuckle.AspNetCore. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Connect, Microsoft Visual Studio Offline Packages, Official",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
