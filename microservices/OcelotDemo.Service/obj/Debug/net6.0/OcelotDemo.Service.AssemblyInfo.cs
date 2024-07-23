@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OcelotDemo.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc98dd76dd5cf6430e3685990c5799a3d4c0fabf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+867b838a150fb489c881c9037a90653baa85dc11")]
 [assembly: System.Reflection.AssemblyProductAttribute("OcelotDemo.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OcelotDemo.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

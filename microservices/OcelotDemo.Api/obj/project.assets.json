@@ -18,11 +18,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sahit\\Downloads\\Microservices-master\\OcelotDemo\\OcelotDemo.Api\\OcelotDemo.Api.csproj",
+      "projectUniqueName": "C:\\Users\\sahit\\source\\repos\\Dotnet_training\\microservices\\OcelotDemo.Api\\OcelotDemo.Api.csproj",
       "projectName": "OcelotDemo.Api",
-      "projectPath": "C:\\Users\\sahit\\Downloads\\Microservices-master\\OcelotDemo\\OcelotDemo.Api\\OcelotDemo.Api.csproj",
+      "projectPath": "C:\\Users\\sahit\\source\\repos\\Dotnet_training\\microservices\\OcelotDemo.Api\\OcelotDemo.Api.csproj",
       "packagesPath": "C:\\Users\\sahit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sahit\\Downloads\\Microservices-master\\OcelotDemo\\OcelotDemo.Api\\obj\\",
+      "outputPath": "C:\\Users\\sahit\\source\\repos\\Dotnet_training\\microservices\\OcelotDemo.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

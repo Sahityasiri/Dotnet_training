@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3Odu1hvjwyI=",
+  "dgSpecHash": "WurwY+FPunk=",
   "success": false,
-  "projectFilePath": "C:\\Users\\sahit\\Downloads\\Microservices-master\\OcelotDemo\\OcelotDemo.Api\\OcelotDemo.Api.csproj",
+  "projectFilePath": "C:\\Users\\sahit\\source\\repos\\Dotnet_training\\microservices\\OcelotDemo.Api\\OcelotDemo.Api.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {
