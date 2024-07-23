@@ -4,11 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace Solid__Principles
 {
     internal class SRP
     {
-        // Example with SRP
+        
         public class Employee
         {
             public string Name { get; set; }
